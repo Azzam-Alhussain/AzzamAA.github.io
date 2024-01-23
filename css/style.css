@@ -485,6 +485,13 @@ h3 {
   color:#ffffff!important;
 }
 .dark-mode .profDesignation{
+  .githubProfile{
+    color:black;
+  }
+  /* Github icon  */
+  .dark-mode .githubProfile{
+    color:white;
+  }
   color:#98a6ad!important;
 }
 .dark-mode .prjPublication h4{
